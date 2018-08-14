@@ -8,4 +8,4 @@ services:
       - "8000:8000"
       - "5432:5432"
       - "11626:11626"
-    command: [ "--pubnet" ]
+    command: [ "--testnet" ]
